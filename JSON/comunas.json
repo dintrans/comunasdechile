@@ -3,2076 +3,2422 @@
 	{"nombre":"Iquique", 
 	"poblacion2002":166204,
 	"poblacion2012":184953,
+	"poblacion2017":191468, 
 	"adyacencia":["1107","1401","1404"]},
 
 	"1107":
 	{"nombre":"Alto Hospicio", 
 	"poblacion2002":50215,
 	"poblacion2012":94455,
+	"poblacion2017":108375, 
 	"adyacencia":["1101","1401","1404"]},
 
 	"1401":
 	{"nombre":"Pozo Almonte", 
 	"poblacion2002":10830,
 	"poblacion2012":11519, 
+	"poblacion2017":15711, 
 	"adyacencia":["1101","1107","1404","1405"]},
 
 	"1402":
 	{"nombre":"Camiña", 
 	"poblacion2002":1275,
 	"poblacion2012":1156,
+	"poblacion2017":1250, 
 	"adyacencia":["1403","1404","15102"]},
 
 	"1403":
 	{"nombre":"Colchane", 
 	"poblacion2002":1649, 
 	"poblacion2012":1384,
+	"poblacion2017":1728, 
 	"adyacencia":["1402","1404","1405","15102","15201"]},
 
 	"1404":
 	{"nombre":"Huara", 
 	"poblacion2002":2599, 
 	"poblacion2012":2360, 
+	"poblacion2017":2730, 
 	"adyacencia":["1101","1107","1401","1402","1403","1405","15102"]},
 
-	"1405":
-	{"nombre":"Pica", 
-	"poblacion2002":3498, 
-	"poblacion2012":4194,
-	"adyacencia":["1401","1403","1404"]},
+    "1405":
+    {"nombre":"Pica", 
+    "poblacion2002":3498, 
+    "poblacion2012":4194, 
+    "poblacion2017":9296, 
+    "adyacencia":["1401","1403","1404"]},
 
     "2101":
     {"nombre":"Antofagasta", 
     "poblacion2002":296905,
-	"poblacion2012":348669,
+    "poblacion2012":348669,
+	"poblacion2017":361873,
     "adyacencia":["2102","2103","2104","2203"]},
 
     "2102":
     {"nombre":"Mejillones", 
     "poblacion2002":6418,
-	"poblacion2012":9752,
+    "poblacion2012":9752,
+	"poblacion2017":13467,
     "adyacencia":["2101","2103","2301","2302"]},
 
     "2103":
     {"nombre":"Sierra Gorda", 
     "poblacion2002":2356,
 	"poblacion2012":1206,
+	"poblacion2017":10186,
     "adyacencia":["2101","2102","2201","2203","2302"]},
 
     "2104":
     {"nombre":"Taltal", 
     "poblacion2002":11100,
 	"poblacion2012":13493,
+	"poblacion2017":13317,
     "adyacencia":["2101","3201","3202"]},
 
     "2201":
     {"nombre":"Calama", 
     "poblacion2002":138402,
 	"poblacion2012":147886,
+	"poblacion2017":165731,
     "adyacencia":["1405","2103","2202","2203","2302"]},
 
     "2202":
     {"nombre":"Ollagüe", 
     "poblacion2002":318,
 	"poblacion2012":332,
+	"poblacion2017":321,
     "adyacencia":["1405","2201"]},
 
     "2203":
     {"nombre":"San Pedro de Atacama", 
     "poblacion2002":4969,
 	"poblacion2012":5605,
+	"poblacion2017":10996,
     "adyacencia":["2101","2103","2201"]},
 
     "2301":
     {"nombre":"Tocopilla", 
     "poblacion2002":23986,
 	"poblacion2012":25091,
+	"poblacion2017":25186,
     "adyacencia":["2102","2103","2302"]},
 
     "2302":
     {"nombre":"Maria Elena", 
     "poblacion2002":7530,
 	"poblacion2012":4593,
+	"poblacion2017":6457,
     "adyacencia":["2102","2103","2201","2301"]},
 
     "3101":
     {"nombre":"Copiapo", 
     "poblacion2002":129091,
 	"poblacion2012":158261,
+	"poblacion2017":153937,
     "adyacencia":["3102","3103","3201","3202","3301","3304"]},
 
     "3102":
     {"nombre":"Caldera", 
     "poblacion2002":13734,
 	"poblacion2012":16150,
+	"poblacion2017":17662,
     "adyacencia":["3101","3201"]},
 
     "3103":
     {"nombre":"Tierra Amarilla", 
     "poblacion2002":12888,
 	"poblacion2012":13912,
+	"poblacion2017":14019,
     "adyacencia":["3101","3301","3302"]},
 
     "3201":
     {"nombre":"Chañaral", 
     "poblacion2002":13543,
 	"poblacion2012":14146,
+	"poblacion2017":12219,
     "adyacencia":["2104","3101","3102","3202"]},
 
     "3202":
     {"nombre":"Diego de Almagro", 
     "poblacion2002":18589,
 	"poblacion2012":16452,
+	"poblacion2017":13925,
     "adyacencia":["2101","2104","3101","3201"]},
 
     "3301":
     {"nombre":"Vallenar", 
     "poblacion2002":48040,
 	"poblacion2012":52099,
+	"poblacion2017":51917,
     "adyacencia":["3101","3103","3302","3303","3304","4104"]},
 
     "3302":
     {"nombre":"Alto del Carmen",
     "poblacion2002":4840,
 	"poblacion2012":5488,
+	"poblacion2017":5299,
     "adyacencia":["3103","3301","4104","4106"]},
 
     "3303":
     {"nombre":"Freirina", 
     "poblacion2002":5666,
 	"poblacion2012":6531,
+	"poblacion2017":7041,
     "adyacencia":["3301","3304","4104"]},
 
     "3304":
     {"nombre":"Huasco", 
     "poblacion2002":7945,
 	"poblacion2012":9015,
+	"poblacion2017":10149,
     "adyacencia":["3101","3301","3303"]},
 
     "4101":
     {"nombre":"La Serena", 
     "poblacion2002":160148,
 	"poblacion2012":211275,
+	"poblacion2017":221054,
     "adyacencia":["4102","4103","4104","4106"]},
 
     "4102":
     {"nombre":"Coquimbo", 
     "poblacion2002":163036,
 	"poblacion2012":202441,
+	"poblacion2017":227730,
     "adyacencia":["4101","4103","4301"]},
 
     "4103":
     {"nombre":"Andacollo", 
     "poblacion2002":10288,
 	"poblacion2012":11116,
+	"poblacion2017":11044,
     "adyacencia":["4101","4102","4106","4301","4305"]},
 
     "4104":
     {"nombre":"La Higuera", 
     "poblacion2002":3721,
 	"poblacion2012":4331,
+	"poblacion2017":4241,
     "adyacencia":["3301","3302","3303","4101","4106"]},
 
     "4105":
     {"nombre":"Paihuano", 
     "poblacion2002":4168,
 	"poblacion2012":4252,
+	"poblacion2017":4497,
     "adyacencia":["4106","4305"]},
 
     "4106":
     {"nombre":"Vicuña", 
     "poblacion2002":24010,
 	"poblacion2012":26029,
+	"poblacion2017":27771,
     "adyacencia":["3302","4101","4103","4104","4105","4305"]},
 
     "4201":
     {"nombre":"Illapel", 
     "poblacion2002":30355,
 	"poblacion2012":30598,
+	"poblacion2017":30848,
     "adyacencia":["4202","4203","4204","4302","4303"]},
 
     "4202":
     {"nombre":"Canela", 
     "poblacion2002":9379,
 	"poblacion2012":9182,
+	"poblacion2017":9093,
     "adyacencia":["4201","4203","4301","4302","4304"]},
 
     "4203":
     {"nombre":"Los Vilos", 
     "poblacion2002":17453,
 	"poblacion2012":18483,
+	"poblacion2017":21382,
     "adyacencia":["4201","4202","4204","5401","5404"]},
 
     "4204":
     {"nombre":"Salamanca", 
     "poblacion2002":24494,
 	"poblacion2012":25671,
+	"poblacion2017":29347,
     "adyacencia":["4201","4203","5402","5404","5705"]},
 
     "4301":
     {"nombre":"Ovalle", 
     "poblacion2002":98089,
 	"poblacion2012":112956,
+	"poblacion2017":111272,
     "adyacencia":["4102","4103","4202","4303","4304","4305"]},
 
     "4302":
     {"nombre":"Combarbalá", 
     "poblacion2002":13483,
 	"poblacion2012":13818,
+	"poblacion2017":13322,
     "adyacencia":["4201","4202","4303","4304"]},
 
     "4303":
     {"nombre":"Monte Patria", 
     "poblacion2002":30276,
 	"poblacion2012":30137,
+	"poblacion2017":30751,
     "adyacencia":["4201","4301","4302","4304","4305"]},
 
     "4304":
     {"nombre":"Punitaqui", 
     "poblacion2002":9539,
 	"poblacion2012":10418,
+	"poblacion2017":10956,
     "adyacencia":["4202","4301","4302","4303"]},
 
     "4305":
     {"nombre":"Rio Hurtado", 
     "poblacion2002":4771,
 	"poblacion2012":4149,
+	"poblacion2017":4278,
     "adyacencia":["4103","4105","4106","4301","4303"]},
 
     "5101":
     {"nombre":"Valparaiso", 
     "poblacion2002":275982,
 	"poblacion2012":308137,
+	"poblacion2017":296655,
     "adyacencia":["5102","5109","5801"]},
 
     "5102":
     {"nombre":"Casablanca", 
     "poblacion2002":21874,
 	"poblacion2012":25165,
+	"poblacion2017":26867,
     "adyacencia":["5101","5602","5603","5604","5605","5801","13503","13504"]},
 
     "5103":
     {"nombre":"Concón", 
     "poblacion2002":32273,
 	"poblacion2012":63210,
+	"poblacion2017":42152,
     "adyacencia":["5107","5109","5801","5802"]},
 
     "5104":
     {"nombre":"Juan Fernandez", 
     "poblacion2002":633,
 	"poblacion2012":792,
+	"poblacion2017":926,
     "adyacencia":[]},
 
     "5105":
     {"nombre":"Puchuncaví", 
     "poblacion2002":12954,
 	"poblacion2012":16371,
+	"poblacion2017":18546,
     "adyacencia":["5107","5405","5501","5504","5506"]},
 
     "5107":
     {"nombre":"Quintero", 
     "poblacion2002":21174,
 	"poblacion2012":28066,
+	"poblacion2017":31923,
     "adyacencia":["5103","5105","5501","5802"]},
 
     "5109":
     {"nombre":"Viña del Mar", 
     "poblacion2002":286931,
 	"poblacion2012":311399,
+	"poblacion2017":334248,
     "adyacencia":["5101","5103","5801"]},
 
     "5201":
     {"nombre":"Isla de Pascua", 
     "poblacion2002":3791,
 	"poblacion2012":5761,
+	"poblacion2017":7750,
     "adyacencia":[]},
 
     "5301":
     {"nombre":"Los Andes", 
     "poblacion2002":60198,
 	"poblacion2012":110866,
+	"poblacion2017":66708,
     "adyacencia":["5302","5304","5701","5706","13115","13203","13301"]},
 
     "5302":
     {"nombre":"Calle Larga", 
     "poblacion2002":10393,
 	"poblacion2012":11110,
+	"poblacion2017":14832,
     "adyacencia":["5301","5303","13301"]},
 
     "5303":
     {"nombre":"Rinconada", 
     "poblacion2002":6692,
 	"poblacion2012":8097,
+	"poblacion2017":10207,
     "adyacencia":["5302","5701","5703","5704","13301","13303"]},
 
     "5304":
     {"nombre":"San Esteban", 
     "poblacion2002":14400,
 	"poblacion2012":17371,
+	"poblacion2017":18855,
     "adyacencia":["5301","5705","5706"]},
 
     "5401":
     {"nombre":"La Ligua", 
     "poblacion2002":31987,
 	"poblacion2012":38524,
+	"poblacion2017":35390,
     "adyacencia":["4203","5402","5403","5404","5405","5406"]},
 
     "5402":
     {"nombre":"Cabildo", 
     "poblacion2002":18916,
 	"poblacion2012":21094,
+	"poblacion2017":19388,
     "adyacencia":["4204","5401","5404","5506","5702","5705"]},
 
     "5403":
     {"nombre":"Papudo", 
     "poblacion2002":4608,
 	"poblacion2012":5643,
+	"poblacion2017":6356,
     "adyacencia":["5401","5405"]},
 
     "5404":
     {"nombre":"Petorca", 
     "poblacion2002":9440,
 	"poblacion2012":10074,
+	"poblacion2017":9826,
     "adyacencia":["4203","4204","5401","5402"]},
 
     "5405":
     {"nombre":"Zapallar", 
     "poblacion2002":5659,
 	"poblacion2012":6726,
+	"poblacion2017":7339,
     "adyacencia":["5105","5401","5403","5506"]},
 
     "5501":
     {"nombre":"Quillota", 
     "poblacion2002":75916,
 	"poblacion2012":88803,
+	"poblacion2017":90517,
     "adyacencia":["5105","5107","5502","5503","5504","5802","5803"]},
 
     "5502":
     {"nombre":"Calera", 
     "poblacion2002":49503,
 	"poblacion2012":55207,
+	"poblacion2017":50554,
     "adyacencia":["5501","5503","5504","5506"]},
 
     "5503":
     {"nombre":"Hijuelas", 
     "poblacion2002":16014,
 	"poblacion2012":19132,
+	"poblacion2017":17988,
     "adyacencia":["5501","5502","5506","5702","5703","5803","13303"]},
 
     "5504":
     {"nombre":"La Cruz", 
     "poblacion2002":12851,
 	"poblacion2012":17346,
+	"poblacion2017":22098,
     "adyacencia":["5105","5501","5502","5506"]},
 
     "5506":
     {"nombre":"Nogales", 
     "poblacion2002":21633,
 	"poblacion2012":26385,
+	"poblacion2017":22120,
     "adyacencia":["5105","5401","5402","5405","5502","5503","5504","5702"]},
 
     "5601":
     {"nombre":"San Antonio", 
     "poblacion2002":87205,
 	"poblacion2012":87697,
+	"poblacion2017":91350,
     "adyacencia":["5603","5606","5603","13501","13504","13505"]},
 
     "5602":
     {"nombre":"Algarrobo", 
     "poblacion2002":8601,
 	"poblacion2012":13472,
+	"poblacion2017":13817,
     "adyacencia":["5102","5604"]},
 
     "5603":
     {"nombre":"Cartagena", 
     "poblacion2002":16875,
 	"poblacion2012":17029,
+	"poblacion2017":22738,
     "adyacencia":["5102","5601","5605","13504"]},
 
     "5604":
     {"nombre":"El Quisco", 
     "poblacion2002":9467,
 	"poblacion2012":15829,
+	"poblacion2017":15955,
     "adyacencia":["5102","5602","5605"]},
 
     "5605":
     {"nombre":"El Tabo", 
     "poblacion2002":7028,
 	"poblacion2012":11861,
+	"poblacion2017":13286,
     "adyacencia":["5102","5603","5604"]},
 
     "5606":
     {"nombre":"Santo Domingo", 
     "poblacion2002":7418,
 	"poblacion2012":9205,
+	"poblacion2017":10900,
     "adyacencia":["5601","6205","13501","13505"]},
 
     "5701":
     {"nombre":"San Felipe", 
     "poblacion2002":64126,
 	"poblacion2012":72121,
+	"poblacion2017":76844,
     "adyacencia":["5301","5303","5702","5704","5705","5706"]},
 
     "5702":
     {"nombre":"Catemu", 
     "poblacion2002":12112,
 	"poblacion2012":13902,
+	"poblacion2017":13998,
     "adyacencia":["5402","5503","5506","5701","5703","5704","5705"]},
 
     "5703":
     {"nombre":"Llaillay", 
     "poblacion2002":21644,
 	"poblacion2012":23680,
+	"poblacion2017":24608,
     "adyacencia":["5303","5503","5702","5704","13303"]},
 
     "5704":
     {"nombre":"Panquehue", 
     "poblacion2002":6567,
 	"poblacion2012":7569,
+	"poblacion2017":7273,
     "adyacencia":["5303","5701","5702","5703"]},
 
     "5705":
     {"nombre":"Putaendo", 
     "poblacion2002":14649,
 	"poblacion2012":17369,
+	"poblacion2017":16754,
     "adyacencia":["4204","5304","5402","5701","5702","5706"]},
 
     "5706":
     {"nombre":"Santa María", 
     "poblacion2002":12813,
 	"poblacion2012":14504,
+	"poblacion2017":15241,
     "adyacencia":["5301","5304","5701","5705"]},
 
     "5801":
     {"nombre":"Quilpué", 
     "poblacion2002":128578,
 	"poblacion2012":162320,
+	"poblacion2017":151708,
     "adyacencia":["5101","5102","5103","5109","5802","5803","5804","13302","13303","13503"]},
 
     "5802":
     {"nombre":"Limache", 
     "poblacion2002":39219,
 	"poblacion2012":45864,
+	"poblacion2017":46121,
     "adyacencia":["5103","5107","5501","5801","5803","5804"]},
 
     "5803":
     {"nombre":"Olmué", 
     "poblacion2002":14105,
 	"poblacion2012":16243,
+	"poblacion2017":17516,
     "adyacencia":["5501","5503","5801","5802","13503"]},
 
     "5804":
     {"nombre":"Villa Alemana", 
     "poblacion2002":95623,
 	"poblacion2012":135368,
+	"poblacion2017":126548,
     "adyacencia":["5801","5802"]},
 
     "6101":
     {"nombre":"Rancagua", 
     "poblacion2002":214344,
 	"poblacion2012":250638,
+	"poblacion2017":241774,
     "adyacencia":["6102","6105","6106","6108","6111","13502"]},
 
     "6102":
     {"nombre":"Codegua", 
     "poblacion2002":10796,
 	"poblacion2012":12725,
+	"poblacion2017":12988,
     "adyacencia":["6101","6106","6108","6110","13203"]},
 
     "6103":
     {"nombre":"Coinco", 
     "poblacion2002":6385,
 	"poblacion2012":7248,
+	"poblacion2017":7359,
     "adyacencia":["6104","6105","6111","6114","6115","6116","6117"]},
 
     "6104":
     {"nombre":"Coltauco", 
     "poblacion2002":16228,
 	"poblacion2012":17620,
+	"poblacion2017":19597,
     "adyacencia":["6103","6105","6107","6112","6117","13502"]},
 
     "6105":
     {"nombre":"Doñihue", 
     "poblacion2002":16916,
 	"poblacion2012":21023,
+	"poblacion2017":20887,
     "adyacencia":["6101","6103","6104","6111","13502"]},
 
     "6106":
     {"nombre":"Graneros", 
     "poblacion2002":25961,
 	"poblacion2012":30372,
+	"poblacion2017":33437,
     "adyacencia":["6101","6102","6110","13502"]},
 
     "6107":
     {"nombre":"Las Cabras", 
     "poblacion2002":20242,
 	"poblacion2012":23857,
+	"poblacion2017":24640,
     "adyacencia":["6104","6112","6113","6202","6203","13502","13505"]},
 
     "6108":
     {"nombre":"Machalí", 
     "poblacion2002":28628,
 	"poblacion2012":44566,
+	"poblacion2017":52505,
     "adyacencia":["6101","6102","6116","13203"]},
 
     "6109":
     {"nombre":"Malloa", 
     "poblacion2002":12872,
 	"poblacion2012":14972,
+	"poblacion2017":13407,
     "adyacencia":["6114","6115","6117","6301"]},
 
     "6110":
     {"nombre":"Mostazal", 
     "poblacion2002":21866,
 	"poblacion2012":23430,
+	"poblacion2017":25343,
     "adyacencia":["6102","6106","13202","13203","13404","13502"]},
 
     "6111":
     {"nombre":"Olivar", 
     "poblacion2002":12335,
 	"poblacion2012":13483,
+	"poblacion2017":13608,
     "adyacencia":["6101","6103","6105","6116"]},
 
     "6112":
     {"nombre":"Peumo", 
     "poblacion2002":13948,
 	"poblacion2012":14158,
+	"poblacion2017":14313,
     "adyacencia":["6104","6107","6113","6117"]},
 
     "6113":
     {"nombre":"Pichidegua", 
     "poblacion2002":17756,
 	"poblacion2012":18637,
+	"poblacion2017":19714,
     "adyacencia":["6107","6112","6117","61202","6204","6306","6307"]},
 
     "6114":
     {"nombre":"Quinta de Tilcoco", 
     "poblacion2002":11380,
 	"poblacion2012":12144,
+	"poblacion2017":13002,
     "adyacencia":["6103","6109","6115","6117"]},
 
     "6115":
     {"nombre":"Rengo", 
     "poblacion2002":50830,
 	"poblacion2012":56188,
+	"poblacion2017":58825,
     "adyacencia":["6103","6108","6109","6114","6116","6301"]},
 
     "6116":
     {"nombre":"Requínoa", 
     "poblacion2002":22161,
 	"poblacion2012":26235,
+	"poblacion2017":27698,
     "adyacencia":["6103","6108","6111","6115"]},
 
     "6117":
     {"nombre":"San Vicente", 
     "poblacion2002":40253,
 	"poblacion2012":47716,
+	"poblacion2017":46766,
     "adyacencia":["6103","6104","6109","6112","6113","6114","6301","6305","6306","6307","6308","6310"]},
 
     "6201":
     {"nombre":"Pichilemu", 
     "poblacion2002":12392,
 	"poblacion2012":13916,
+	"poblacion2017":16394,
     "adyacencia":["6203","6204","6206","6309"]},
 
     "6202":
     {"nombre":"La Estrella", 
     "poblacion2002":4221,
 	"poblacion2012":4821,
+	"poblacion2017":3041,
     "adyacencia":["6107","6113","6203","6204"]},
 
     "6203":
     {"nombre":"Litueche", 
     "poblacion2002":5526,
 	"poblacion2012":5591,
+	"poblacion2017":6294,
     "adyacencia":["5606","6107","6201","6202","6204","6205","13505"]},
 
     "6204":
     {"nombre":"Marchihue", 
     "poblacion2002":6904,
 	"poblacion2012":7557,
+	"poblacion2017":7308,
     "adyacencia":["6113","6201","6202","6203","6307","6309"]},
 
     "6205":
     {"nombre":"Navidad", 
     "poblacion2002":5422,
 	"poblacion2012":5650,
+	"poblacion2017":6641,
     "adyacencia":["5606","6203"]},
 
     "6206":
     {"nombre":"Paredones", 
     "poblacion2002":6695,
 	"poblacion2012":6802,
+	"poblacion2017":6188,
     "adyacencia":["6201","6304","6309","7302","7309"]},
 
     "6301":
     {"nombre":"San Fernando", 
     "poblacion2002":63732,
 	"poblacion2012":75221,
+	"poblacion2017":73973,
     "adyacencia":["6108","6109","6115","6117","6303","6308","7306","7308"]},
 
     "6302":
     {"nombre":"Chépica", 
     "poblacion2002":13857,
 	"poblacion2012":15820,
+	"poblacion2017":15037,
     "adyacencia":["6303","6304","6305","6310","7302","7305","7308"]},
 
     "6303":
     {"nombre":"Chimbarongo", 
     "poblacion2002":32316,
 	"poblacion2012":35664,
+	"poblacion2017":35399,
     "adyacencia":["6301","6302","6305","6308","7308"]},
 
     "6304":
     {"nombre":"Lolol", 
     "poblacion2002":6161,
 	"poblacion2012":6630,
+	"poblacion2017":6811,
     "adyacencia":["6206","6302","6309","6310","7302"]},
 
     "6305":
     {"nombre":"Nancagua", 
     "poblacion2002":15634,
 	"poblacion2012":18921,
+	"poblacion2017":17833,
     "adyacencia":["6117","6302","6303","6308","6310"]},
 
     "6306":
     {"nombre":"Palmilla", 
     "poblacion2002":11200,
 	"poblacion2012":12373,
+	"poblacion2017":12482,
     "adyacencia":["6113","6117","6307","6310"]},
 
     "6307":
     {"nombre":"Peralillo", 
     "poblacion2002":9729,
 	"poblacion2012":10933,
+	"poblacion2017":11007,
     "adyacencia":["6113","6204","6306","6309","6310"]},
 
     "6308":
     {"nombre":"Placilla", 
     "poblacion2002":8078,
 	"poblacion2012":9624,
+	"poblacion2017":8738,
     "adyacencia":["6117","6301","6303","6305"]},
 
     "6309":
     {"nombre":"Pumanque", 
     "poblacion2002":3442,
 	"poblacion2012":3458,
+	"poblacion2017":3421,
     "adyacencia":["6201","6204","6206","6304","6307","6310"]},
 
     "6310":
     {"nombre":"Santa Cruz", 
     "poblacion2002":32387,
 	"poblacion2012":35255,
+	"poblacion2017":37855,
     "adyacencia":["6117","6302","6304","6305","6306","6307","6309"]},
 
     "7101":
     {"nombre":"Talca", 
     "poblacion2002":201797,
 	"poblacion2012":264842,
+	"poblacion2017":220357,
     "adyacencia":["7105","7106","7107","7109","7110"]},
 
     "7102":
     {"nombre":"Constitución", 
     "poblacion2002":46081,
 	"poblacion2012":41416,
+	"poblacion2017":46068,
     "adyacencia":["7103","7104","7106","7107","7202"]},
 
     "7103":
     {"nombre":"Curepto", 
     "poblacion2002":10812,
 	"poblacion2012":9714,
+	"poblacion2017":9448,
     "adyacencia":["7102","7107","7302","7303","7307"]},
 
     "7104":
     {"nombre":"Empedrado", 
     "poblacion2002":4225,
 	"poblacion2012":4250,
+	"poblacion2017":4142,
     "adyacencia":["7102","7201","7202","7406"]},
 
     "7105":
     {"nombre":"Maule", 
     "poblacion2002":16837,
 	"poblacion2012":21957,
+	"poblacion2017":49721,
     "adyacencia":["7101","7107","7109","7406","7408"]},
 
     "7106":
     {"nombre":"Pelarco", 
     "poblacion2002":7266,
 	"poblacion2012":7959,
+	"poblacion2017":8422,
     "adyacencia":["7101","7108","7109","7110"]},
 
     "7107":
     {"nombre":"Pencahue", 
     "poblacion2002":8315,
 	"poblacion2012":9187,
+	"poblacion2017":8245,
     "adyacencia":["7101","7102","7103","7105","7110","7307","7406"]},
 
     "7108":
     {"nombre":"Rio Claro", 
     "poblacion2002":12698,
 	"poblacion2012":13020,
+	"poblacion2017":13906,
     "adyacencia":["7106","7109","7110","7304"]},
 
     "7109":
     {"nombre":"San Clemente", 
     "poblacion2002":37261,
 	"poblacion2012":39554,
+	"poblacion2017":43269,
     "adyacencia":["7101","7105","7106","7108","7304","7402","7408"]},
 
     "7110":
     {"nombre":"San Rafael", 
     "poblacion2002":7674,
 	"poblacion2012":8512,
+	"poblacion2017":9191,
     "adyacencia":["7101","7106","7107","7108","7304","7307"]},
 
     "7201":
     {"nombre":"Cauquenes", 
     "poblacion2002":41217,
 	"poblacion2012":40245,
-    "adyacencia":["7104","7202","7203","7404","7405","7406","8403","8408","8409","8414","8416"]},
+	"poblacion2017":40441,
+    "adyacencia":["7104","7202","7203","7404","7405","7406","16202","16204","16303","16201","16301"]},
 
     "7202":
     {"nombre":"Chanco", 
     "poblacion2002":9457,
 	"poblacion2012":9571,
+	"poblacion2017":8928,
     "adyacencia":["7102","7104","7201","7203"]},
 
     "7203":
     {"nombre":"Pelluhue", 
     "poblacion2002":6414,
 	"poblacion2012":6636,
-    "adyacencia":["7201","7202","8403"]},
+	"poblacion2017":7571,
+    "adyacencia":["7201","7202","16202"]},
 
     "7301":
     {"nombre":"Curicó", 
     "poblacion2002":119585,
 	"poblacion2012":177766,
+	"poblacion2017":149136,
     "adyacencia":["7304","7305","7306","7307","7308"]},
 
     "7302":
     {"nombre":"Hualañé", 
     "poblacion2002":9741,
 	"poblacion2012":9977,
+	"poblacion2017":9657,
     "adyacencia":["6206","6302","6304","7103","7303","7305","7307","7309"]},
 
     "7303":
     {"nombre":"Licantén", 
     "poblacion2002":6902,
 	"poblacion2012":6689,
+	"poblacion2017":6653,
     "adyacencia":["7103","7302","7309"]},
 
     "7304":
     {"nombre":"Molina", 
     "poblacion2002":38521,
 	"poblacion2012":40329,
+	"poblacion2017":45976,
     "adyacencia":["7108","7109","7110","7301","7307"]},
 
     "7305":
     {"nombre":"Rauco", 
     "poblacion2002":8566,
 	"poblacion2012":9878,
+	"poblacion2017":10484,
     "adyacencia":["6302","7301","7302","7307","7308"]},
 
     "7306":
     {"nombre":"Romeral", 
     "poblacion2002":12707,
 	"poblacion2012":14460,
+	"poblacion2017":15187,
     "adyacencia":["6301","7301","7308"]},
 
     "7307":
     {"nombre":"Sagrada Familia", 
     "poblacion2002":17519,
 	"poblacion2012":17839,
+	"poblacion2017":18544,
     "adyacencia":["7103","7107","7110","7301","7302","7304","7305"]},
 
     "7308":
     {"nombre":"Teno", 
     "poblacion2002":25596,
 	"poblacion2012":28228,
+	"poblacion2017":28921,
     "adyacencia":["6301","6302","6303","7301","7305","7306"]},
 
     "7309":
     {"nombre":"Vichuquén", 
     "poblacion2002":4916,
 	"poblacion2012":4335,
+	"poblacion2017":4322,
     "adyacencia":["6206","7302","7303"]},
 
     "7401":
     {"nombre":"Linares", 
     "poblacion2002":83249,
 	"poblacion2012":107311,
+	"poblacion2017":93602,
     "adyacencia":["7402","7403","7406","7407","7408"]},
 
     "7402":
     {"nombre":"Colbún", 
     "poblacion2002":17619,
 	"poblacion2012":19361,
-    "adyacencia":["7109","7401","7403","7404","7408","8417"]},
+	"poblacion2017":20765,
+    "adyacencia":["7109","7401","7403","7404","7408","16304"]},
 
     "7403":
     {"nombre":"Longaví", 
     "poblacion2002":28161,
 	"poblacion2012":28968,
+	"poblacion2017":30534,
     "adyacencia":["7401","7402","7404","7405","7406"]},
 
     "7404":
     {"nombre":"Parral", 
     "poblacion2002":37822,
 	"poblacion2012":39404,
-    "adyacencia":["7201","7402","7403","7405","8409","8417"]},
+	"poblacion2017":41637,
+    "adyacencia":["7201","7402","7403","7405","16303","16304"]},
 
     "7405":
     {"nombre":"Retiro", 
     "poblacion2002":18487,
 	"poblacion2012":18760,
+	"poblacion2017":19974,
     "adyacencia":["7201","7403","7404","7406"]},
 
     "7406":
     {"nombre":"San Javier", 
     "poblacion2002":37793,
 	"poblacion2012":40881,
+	"poblacion2017":45547,
     "adyacencia":["7102","7104","7105","7107","7201","7401","7403","7405","7407","7408"]},
 
     "7407":
     {"nombre":"Villa Alegre", 
     "poblacion2002":14725,
 	"poblacion2012":15428,
+	"poblacion2017":16221,
     "adyacencia":["7401","7406","7408"]},
 
     "7408":
     {"nombre":"Yerbas Buenas", 
     "poblacion2002":16134,
 	"poblacion2012":17158,
+	"poblacion2017":18081,
     "adyacencia":["7105","7109","7401","7402","7406","7407"]},
 
     "8101":
     {"nombre":"Concepción", 
     "poblacion2002":216061,
     "poblacion2012":227768,
+	"poblacion2017":223574,
     "adyacencia":["8103","8104","8105","8107","8108","8110","8112"]},
 
     "8102":
     {"nombre":"Coronel", 
     "poblacion2002":95528,
     "poblacion2012":107508,
+	"poblacion2017":116262,
     "adyacencia":["8103","8105","8106","8108","8109"]},
 
     "8103":
     {"nombre":"Chiguayante", 
     "poblacion2002":81302,
     "poblacion2012":115366,
+	"poblacion2017":85938,
     "adyacencia":["8101","8102","8105","8108"]},
 
     "8104":
     {"nombre":"Florida", 
     "poblacion2002":10177,
     "poblacion2012":9867,
-    "adyacencia":["8101","8105","8107","8111","8313","8413","8415"]},
+	"poblacion2017":10624,
+    "adyacencia":["8101","8105","8107","8111","8313","16107","16206"]},
 
     "8105":
     {"nombre":"Hualqui", 
     "poblacion2002":18768,
     "poblacion2012":21934,
+	"poblacion2017":24333,
     "adyacencia":["8101","8102","8103","8104","8109","8310","8313"]},
 
     "8106":
     {"nombre":"Lota", 
     "poblacion2002":49089,
     "poblacion2012":48045,
+	"poblacion2017":43535,
     "adyacencia":["8102","8109","8202"]},
 
     "8107":
     {"nombre":"Penco", 
     "poblacion2002":46016,
     "poblacion2012":52389,
+	"poblacion2017":47367,
     "adyacencia":["8101","8104","8110","8111"]},
 
     "8108":
     {"nombre":"San Pedro de la Paz", 
     "poblacion2002":80447,
     "poblacion2012":94827,
+	"poblacion2017":131808,
     "adyacencia":["8101","8102","8103","8112"]},
 
     "8109":
     {"nombre":"Santa Juana", 
     "poblacion2002":12713,
     "poblacion2012":13331,
+	"poblacion2017":13749,
     "adyacencia":["8102","8105","8106","8202","8205","8304","8306","8310"]},
 
     "8110":
     {"nombre":"Talcahuano", 
     "poblacion2002":163036,
     "poblacion2012":171673,
+	"poblacion2017":151749,
     "adyacencia":["8101","8107","8112"]},
 
     "8111":
     {"nombre":"Tomé", 
     "poblacion2002":52440,
     "poblacion2012":55764,
-    "adyacencia":["8104","8107","8404","8415"]},
+	"poblacion2017":54946,
+    "adyacencia":["8104","8107","16203","16206"]},
 
     "8112":
     {"nombre":"Hualpén", 
     "poblacion2002":87312,
     "poblacion2012":86176,
+	"poblacion2017":91773,
     "adyacencia":["8101","8108","8110"]},
 
     "8201":
     {"nombre":"Lebu", 
     "poblacion2002":25035,
     "poblacion2012":25790,
+	"poblacion2017":25522,
     "adyacencia":["8202","8205","8206"]},
 
     "8202":
     {"nombre":"Arauco", 
     "poblacion2002":34873,
     "poblacion2012":41153,
+	"poblacion2017":36257,
     "adyacencia":["8106","8109","8201","8205"]},
 
     "8203":
     {"nombre":"Cañete", 
     "poblacion2002":31270,
     "poblacion2012":33535,
+	"poblacion2017":34537,
     "adyacencia":["8204","8206","8207","9201","9208"]},
 
     "8204":
     {"nombre":"Contulmo", 
     "poblacion2002":5838,
     "poblacion2012":5188,
+	"poblacion2017":6031,
     "adyacencia":["8203","8207","9207","9208"]},
 
     "8205":
     {"nombre":"Curanilahue", 
     "poblacion2002":31943,
     "poblacion2012":33855,
+	"poblacion2017":32288,
     "adyacencia":["8109","8201","8202","8206","8306","9201"]},
 
     "8206":
     {"nombre":"Los Álamos", 
     "poblacion2002":18632,
     "poblacion2012":20723,
+	"poblacion2017":21035,
     "adyacencia":["8201","8203","8205","9201"]},
 
     "8207":
     {"nombre":"Tirúa", 
     "poblacion2002":9664,
     "poblacion2012":10859,
+	"poblacion2017":10407,
     "adyacencia":["8203","8204","9102","9207"]},
 
     "8301":
     {"nombre":"Los Angeles", 
     "poblacion2002":166556,
     "poblacion2012":195813,
-    "adyacencia":["8303","8304","8305","8306","8307","8309","8311","8312","8313","8421"]},
+	"poblacion2017":202331,
+    "adyacencia":["8303","8304","8305","8306","8307","8309","8311","8312","8313","16109"]},
 
     "8302":
     {"nombre":"Antuco", 
     "poblacion2002":3908,
     "poblacion2012":3774,
-    "adyacencia":["8309","8311","8312","8314","8411","8421"]},
+	"poblacion2017":4073,
+    "adyacencia":["8309","8311","8312","8314","16106","16109"]},
 
     "8303":
     {"nombre":"Cabrero", 
     "poblacion2002":25282,
     "poblacion2012":29532,
-    "adyacencia":["8301","8313","8410","8413","8421"]},
+	"poblacion2017":28573,
+    "adyacencia":["8301","8313","16105","16107","16109"]},
 
     "8304":
     {"nombre":"Laja", 
     "poblacion2002":22404,
     "poblacion2012":20964,
+	"poblacion2017":22389,
     "adyacencia":["8109","8301","8306","8310","8313"]},
 
     "8305":
     {"nombre":"Mulchén", 
     "poblacion2002":29003,
     "poblacion2012":28517,
+	"poblacion2017":29627,
     "adyacencia":["8301","8307","8308","8311","9202","9209"]},
 
     "8306":
     {"nombre":"Nacimiento", 
     "poblacion2002":25971,
     "poblacion2012":26145,
+	"poblacion2017":26315,
     "adyacencia":["8109","8205","8301","8304","8307","9201","9209"]},
 
     "8307":
     {"nombre":"Negrete", 
     "poblacion2002":8579,
     "poblacion2012":8933,
+	"poblacion2017":9737,
     "adyacencia":["8301","8305","8306","9209"]},
 
     "8308":
     {"nombre":"Quilaco", 
     "poblacion2002":4021,
     "poblacion2012":3722,
+	"poblacion2017":3988,
     "adyacencia":["8305","8311","8314","9202","9203","9205"]},
 
     "8309":
     {"nombre":"Quilleco", 
     "poblacion2002":10428,
     "poblacion2012":10396,
+	"poblacion2017":9587,
     "adyacencia":["8301","8302","8311","8312"]},
 
     "8310":
     {"nombre":"San Rosendo", 
     "poblacion2002":3918,
     "poblacion2012":3627,
+	"poblacion2017":3412,
     "adyacencia":["8105","8109","8304","8313"]},
 
     "8311":
     {"nombre":"Santa Bárbara", 
     "poblacion2002":12974,
     "poblacion2012":14612,
+	"poblacion2017":13773,
     "adyacencia":["8301","8302","8305","8308","8309","8314"]},
 
     "8312":
     {"nombre":"Tucapel", 
     "poblacion2002":12777,
     "poblacion2012":13442,
-    "adyacencia":["8301","8302","8309","8421"]},
+	"poblacion2017":14134,
+    "adyacencia":["8301","8302","8309","16109"]},
 
     "8313":
     {"nombre":"Yumbel", 
     "poblacion2002":20498,
     "poblacion2012":20572,
-    "adyacencia":["8104","8105","8301","8303","8304","8310","8413"]},
+	"poblacion2017":21198,
+    "adyacencia":["8104","8105","8301","8303","8304","8310","16107"]},
 
     "8314":
     {"nombre":"Alto Biobío", 
     "poblacion2002":6996,
     "poblacion2012":10039,
+	"poblacion2017":5923,
     "adyacencia":["8302","8308","8311","9205"]},
 
-    "8401":
+    "16101":
     {"nombre":"Chillán", 
     "poblacion2002":161953,
     "poblacion2012":175585,
-    "adyacencia":["8402","8405","8406","8411","8412","8413","8415","8416","8418","8419"]},
+	"poblacion2017":184739,
+    "adyacencia":["16102","16302","16103","16106","16205","16107","16206","16301","16108","16305"]},
 
-    "8402":
+    "16102":
     {"nombre":"Bulnes", 
     "poblacion2002":20595,
     "poblacion2012":21542,
-    "adyacencia":["8401","8406","8407","8410","8413","8418"]},
+	"poblacion2017":21493,
+    "adyacencia":["16101","16103","16104","16105","16107","16108"]},
 
-    "8403":
+    "16202":
     {"nombre":"Cobquecura", 
     "poblacion2002":5687,
     "poblacion2012":5173,
-    "adyacencia":["7201","7203","8414","8420"]},
+	"poblacion2017":5012,
+    "adyacencia":["7201","7203","16201","16207"]},
 
-    "8404":
+    "16203":
     {"nombre":"Coelemu", 
     "poblacion2002":16082,
     "poblacion2012":15461,
-    "adyacencia":["8111","8412","8415","8420"]},
+	"poblacion2017":15995,
+    "adyacencia":["8111","16205","16206","16207"]},
 
-    "8405":
+    "16302":
     {"nombre":"Coihueco", 
     "poblacion2002":23583,
     "poblacion2012":24714,
-    "adyacencia":["8401","8409","8411","8416","8417"]},
+	"poblacion2017":26881,
+    "adyacencia":["16101","16303","16106","16301","16304"]},
 
-    "8406":
+    "16103":
     {"nombre":"Chillán Viejo", 
     "poblacion2002":22084,
     "poblacion2012":29199,
-    "adyacencia":["8401","8402","8418"]},
+	"poblacion2017":30907,
+    "adyacencia":["16101","16102","16108"]},
 
-    "8407":
+    "16104":
     {"nombre":"El Carmen", 
     "poblacion2002":12845,
     "poblacion2012":11830,
-    "adyacencia":["8402","8410","8411","8418"]},
+	"poblacion2017":12044,
+    "adyacencia":["16102","16105","16106","16108"]},
 
-    "8408":
+    "16204":
     {"nombre":"Ninhue", 
     "poblacion2002":5738,
     "poblacion2012":5278,
-    "adyacencia":["7201","8412","8414","8416","8419","8420"]},
+	"poblacion2017":5213,
+    "adyacencia":["7201","16205","16201","16301","16305","16207"]},
 
-    "8409":
+    "16303":
     {"nombre":"Ñiquén", 
     "poblacion2002":11421,
     "poblacion2012":10063,
-    "adyacencia":["7201","7404","8416","8417"]},
+	"poblacion2017":11152,
+    "adyacencia":["7201","7404","16301","16304"]},
 
-    "8410":
+    "16105":
     {"nombre":"Pemuco", 
     "poblacion2002":8821,
     "poblacion2012":9120,
-    "adyacencia":["8303","8402","8407","8411","8413","8421"]},
+	"poblacion2017":8448,
+    "adyacencia":["8303","16102","16104","16106","16107","16109"]},
 
-    "8411":
+    "16106":
     {"nombre":"Pinto", 
     "poblacion2002":9875,
     "poblacion2012":10883,
-    "adyacencia":["8302","8401","8405","8407","8410","8418","8421"]},
+	"poblacion2017":10827,
+    "adyacencia":["8302","16101","16302","16104","16105","16108","16109"]},
 
-    "8412":
+    "16205":
     {"nombre":"Portezuelo", 
     "poblacion2002":5470,
     "poblacion2012":5061,
-    "adyacencia":["8401","8404","8408","8415","8419","8420"]},
+	"poblacion2017":4862,
+    "adyacencia":["16101","16203","16204","16206","16305","16207"]},
 
-    "8413":
+    "16107":
     {"nombre":"Quillón", 
     "poblacion2002":15146,
     "poblacion2012":15525,
-    "adyacencia":["8104","8303","8313","8401","8402","8410","8415"]},
+	"poblacion2017":17485,
+    "adyacencia":["8104","8303","8313","16101","16102","16105","16206"]},
 
-    "8414":
+    "16201":
     {"nombre":"Quirihue", 
     "poblacion2002":11429,
     "poblacion2012":11851,
-    "adyacencia":["7201","8403","8408","8420"]},
+	"poblacion2017":11594,
+    "adyacencia":["7201","16202","16204","16207"]},
 
-    "8415":
+    "16206":
     {"nombre":"Ránquil", 
     "poblacion2002":5683,
     "poblacion2012":4983,
-    "adyacencia":["8104","8111","8401","8404","8412","8413"]},
+	"poblacion2017":5755,
+    "adyacencia":["8104","8111","16101","16203","16205","16107"]},
 
-    "8416":
+    "16301":
     {"nombre":"San Carlos", 
     "poblacion2002":50088,
     "poblacion2012":51335,
-    "adyacencia":["7201","8401","8405","8408","8409","8417","8419"]},
+	"poblacion2017":53024,
+    "adyacencia":["7201","16101","16302","16204","16303","16304","16305"]},
 
-    "8417":
+    "16304":
     {"nombre":"San Fabián", 
     "poblacion2002":3646,
     "poblacion2012":3503,
-    "adyacencia":["7402","7404","8405","8409","8416"]},
+	"poblacion2017":4308,
+    "adyacencia":["7402","7404","16302","16303","16301"]},
 
-    "8418":
+    "16108":
     {"nombre":"San Ignacio", 
     "poblacion2002":16196,
     "poblacion2012":15770,
-    "adyacencia":["8401","8402","8406","8407","8411"]},
+	"poblacion2017":16079,
+    "adyacencia":["16101","16102","16103","16104","16106"]},
 
-    "8419":
+    "16305":
     {"nombre":"San Nicolás", 
     "poblacion2002":9741,
     "poblacion2012":10051,
-    "adyacencia":["8401","8408","8412","8416"]},
+	"poblacion2017":11603,
+    "adyacencia":["16101","16204","16205","16301"]},
 
-    "8420":
+    "16207":
     {"nombre":"Treguaco", 
     "poblacion2002":5296,
     "poblacion2012":4995,
-    "adyacencia":["8403","8404","8408","8412","8414"]},
+	"poblacion2017":5401,
+    "adyacencia":["16202","16203","16204","16205","16201"]},
 
-    "8421":
+    "16109":
     {"nombre":"Yungay", 
     "poblacion2002":16814,
     "poblacion2012":18234,
-    "adyacencia":["8301","8302","8303","8312","8410","8411"]},
+	"poblacion2017":17787,
+    "adyacencia":["8301","8302","8303","8312","16105","16106"]},
 
     "9101":
     {"nombre":"Temuco", 
     "poblacion2002":245347,
     "poblacion2012":269992,
+	"poblacion2017":282415,
     "adyacencia":["9106","9108","9111","9112","9119","9121"]},
 
     "9102":
     {"nombre":"Carahue", 
     "poblacion2002":25696,
     "poblacion2012":25718,
+	"poblacion2017":24533,
     "adyacencia":["8207","9111","9116","9117","9121","9207"]},
 
     "9103":
     {"nombre":"Cunco", 
     "poblacion2002":18703,
     "poblacion2012":19024,
+	"poblacion2017":17526,
     "adyacencia":["9104","9105","9110","9115","9119","9120"]},
 
     "9104":
     {"nombre":"Curarrehue", 
     "poblacion2002":6784,
     "poblacion2012":7540,
+	"poblacion2017":7489,
     "adyacencia":["9103","9110","9115","14108"]},
 
     "9105":
     {"nombre":"Freire", 
     "poblacion2002":25514,
     "poblacion2012":27616,
+	"poblacion2017":24606,
     "adyacencia":["9103","9111","9112","9114","9117","9119","9120"]},
 
     "9106":
     {"nombre":"Galvarino", 
     "poblacion2002":12596,
     "poblacion2012":11324,
+	"poblacion2017":11996,
     "adyacencia":["9101","9108","9113","9121","9207","9210"]},
 
     "9107":
     {"nombre":"Gorbea", 
     "poblacion2002":15222,
     "poblacion2012":15481,
+	"poblacion2017":14414,
     "adyacencia":["9109","9114","9118","14106"]},
 
     "9108":
     {"nombre":"Lautaro", 
     "poblacion2002":32218,
     "poblacion2012":35451,
+	"poblacion2017":38013,
     "adyacencia":["9101","9106","9113","9119","9203","9211"]},
 
     "9109":
     {"nombre":"Loncoche", 
     "poblacion2002":23037,
     "poblacion2012":22191,
+	"poblacion2017":23612,
     "adyacencia":["9107","9114","9120","14103","14106","14108"]},
 
     "9110":
     {"nombre":"Melipeuco", 
     "poblacion2002":5628,
     "poblacion2012":5451,
+	"poblacion2017":6138,
     "adyacencia":["9103","9104","9119","9203","9205"]},
 
     "9111":
     {"nombre":"Nueva Imperial", 
     "poblacion2002":29994,
     "poblacion2012":32109,
+	"poblacion2017":32510,
     "adyacencia":["9101","9102","9105","9112","9117","9121"]},
 
     "9112":
     {"nombre":"Padre Las Casas", 
     "poblacion2002":58795,
     "poblacion2012":72135,
+	"poblacion2017":76126,
     "adyacencia":["9101","9105","9111","9119"]},
 
     "9113":
     {"nombre":"Perquenco", 
     "poblacion2002":6450,
     "poblacion2012":0,
+	"poblacion2017":6905,
     "adyacencia":["9106","9108","9210","9211"]},
 
     "9114":
     {"nombre":"Pitrufquén", 
     "poblacion2002":21988,
     "poblacion2012":23776,
+	"poblacion2017":24837,
     "adyacencia":["9105","9107","9109","9117","9118","9120"]},
 
     "9115":
     {"nombre":"Pucón", 
     "poblacion2002":21107,
     "poblacion2012":29987,
+	"poblacion2017":28523,
     "adyacencia":["9103","9104","9120","14108"]},
 
     "9116":
     {"nombre":"Saavedra", 
     "poblacion2002":14034,
     "poblacion2012":13481,
+	"poblacion2017":12450,
     "adyacencia":["9102","9117"]},
 
     "9117":
     {"nombre":"Teodoro Schmidt", 
     "poblacion2002":15504,
     "poblacion2012":15793,
+	"poblacion2017":15045,
     "adyacencia":["9102","9105","9111","9114","9116","9118"]},
 
     "9118":
     {"nombre":"Toltén", 
     "poblacion2002":11216,
     "poblacion2012":10403,
+	"poblacion2017":9722,
     "adyacencia":["9107","9114","9117","14106"]},
 
     "9119":
     {"nombre":"Vilcún", 
     "poblacion2002":22491,
     "poblacion2012":23823,
+	"poblacion2017":28151,
     "adyacencia":["9101","9103","9108","9110","9112","9203"]},
 
     "9120":
     {"nombre":"Villarrica", 
     "poblacion2002":45531,
     "poblacion2012":56178,
+	"poblacion2017":55478,
     "adyacencia":["9103","9105","9109","9114","9115","14108"]},
 
     "9121":
     {"nombre":"Cholchol", 
     "poblacion2002":10065,
     "poblacion2012":10825,
+	"poblacion2017":11611,
     "adyacencia":["9101","9102","9106","9111","9207"]},
 
     "9201":
     {"nombre":"Angol", 
     "poblacion2002":48996,
     "poblacion2012":51136,
+	"poblacion2017":53262,
     "adyacencia":["8203","8205","8206","8306","9202","9204","9206","9208","9209"]},
 
     "9202":
     {"nombre":"Collipulli", 
     "poblacion2002":22354,
     "poblacion2012":21705,
+	"poblacion2017":24598,
     "adyacencia":["8305","8308","9201","9203","9204","9209","9211"]},
 
     "9203":
     {"nombre":"Curacautín", 
     "poblacion2002":16970,
     "poblacion2012":15728,
+	"poblacion2017":17413,
     "adyacencia":["8308","9108","9110","9119","9202","9205","9211"]},
 
     "9204":
     {"nombre":"Ercilla", 
     "poblacion2002":9041,
     "poblacion2012":9148,
+	"poblacion2017":7733,
     "adyacencia":["9201","9202","9206","9210","9211"]},
 
     "9205":
     {"nombre":"Lonquimay", 
     "poblacion2002":10237,
     "poblacion2012":11341,
+	"poblacion2017":10251,
     "adyacencia":["8308","8314","9110","9203"]},
 
     "9206":
     {"nombre":"Los Sauces", 
     "poblacion2002":7581,
     "poblacion2012":6490,
+	"poblacion2017":7265,
     "adyacencia":["9201","9204","9207","9208","9210"]},
 
     "9207":
     {"nombre":"Lumaco", 
     "poblacion2002":11405,
     "poblacion2012":10479,
+	"poblacion2017":9548,
     "adyacencia":["8204","8207","9102","9106","9121","9206","9208","9210"]},
 
     "9208":
     {"nombre":"Purén", 
     "poblacion2002":12868,
     "poblacion2012":11789,
+	"poblacion2017":11779,
     "adyacencia":["8203","8204","9201","9206","9207"]},
 
     "9209":
     {"nombre":"Renaico", 
     "poblacion2002":9128,
     "poblacion2012":9028,
+	"poblacion2017":10250,
     "adyacencia":["8305","8306","8307","9201","9202"]},
 
     "9210":
     {"nombre":"Traiguén", 
     "poblacion2002":19534,
     "poblacion2012":18357,
+	"poblacion2017":18843,
     "adyacencia":["9106","9113","9204","9206","9207","9211"]},
 
     "9211":
     {"nombre":"Victoria", 
     "poblacion2002":33501,
     "poblacion2012":33127,
+	"poblacion2017":34182,
     "adyacencia":["9108","9113","9202","9203","9204","9210"]},
 
     "10101":
     {"nombre":"Puerto Montt", 
     "poblacion2002":175938,
     "poblacion2012":248945,
+	"poblacion2017":245902,
     "adyacencia":["10102","10103","10106","10108","10109","10403"]},
 
     "10102":
     {"nombre":"Calbuco", 
     "poblacion2002":31070,
     "poblacion2012":34902,
+	"poblacion2017":33985,
     "adyacencia":["10101","10108","10202","10209","10403"]},
 
     "10103":
     {"nombre":"Cochamó", 
     "poblacion2002":4363,
     "poblacion2012":4326,
+	"poblacion2017":4023,
     "adyacencia":["10101","10109","10403"]},
 
     "10104":
     {"nombre":"Fresia", 
     "poblacion2002":12804,
     "poblacion2012":12454,
+	"poblacion2017":12261,
     "adyacencia":["10105","10106","10107","10303"]},
 
     "10105":
     {"nombre":"Frutillar", 
     "poblacion2002":15525,
     "poblacion2012":17756,
+	"poblacion2017":18428,
     "adyacencia":["10104","10107","10109","10302","10303"]},
 
     "10106":
     {"nombre":"Los Muermos", 
     "poblacion2002":16964,
     "poblacion2012":16522,
+	"poblacion2017":17068,
     "adyacencia":["10101","10104","10107","10108","10109"]},
 
     "10107":
     {"nombre":"Llanquihue", 
     "poblacion2002":16337,
     "poblacion2012":18151,
+	"poblacion2017":17591,
     "adyacencia":["10104","10105","10106","10109"]},
 
     "10108":
     {"nombre":"Maullín", 
     "poblacion2002":15580,
     "poblacion2012":13914,
+	"poblacion2017":14216,
     "adyacencia":["10101","10102","10106","10202"]},
 
     "10109":
     {"nombre":"Puerto Varas", 
     "poblacion2002":33912,
     "poblacion2012":39414,
+	"poblacion2017":44578,
     "adyacencia":["10101","10103","10105","10106","10107","10302","10304"]},
 
     "10201":
     {"nombre":"Castro", 
     "poblacion2002":39366,
     "poblacion2012":50764,
+	"poblacion2017":43807,
     "adyacencia":["10203","10204","10205","10206","10210"]},
 
     "10202":
     {"nombre":"Ancud", 
     "poblacion2002":39346,
     "poblacion2012":41960,
+	"poblacion2017":38991,
     "adyacencia":["10102","10108","10205","10209"]},
 
     "10203":
     {"nombre":"Chonchi", 
     "poblacion2002":12572,
     "poblacion2012":14639,
+	"poblacion2017":14858,
     "adyacencia":["10201","10206","10207","10208"]},
 
     "10204":
     {"nombre":"Curaco de Vélez", 
     "poblacion2002":3403,
     "poblacion2012":3884,
+	"poblacion2017":3829,
     "adyacencia":["10201","10205","10210"]},
 
     "10205":
     {"nombre":"Dalcahue", 
     "poblacion2002":10693,
     "poblacion2012":14548,
+	"poblacion2017":13762,
     "adyacencia":["10201","10202","10204","10209","10210"]},
 
     "10206":
     {"nombre":"Pulquedón", 
     "poblacion2002":4160,
     "poblacion2012":4097,
+	"poblacion2017":3921,
     "adyacencia":["10201","10203","10207","10210","10401"]},
 
     "10207":
     {"nombre":"Queilén", 
     "poblacion2002":5138,
     "poblacion2012":5319,
+	"poblacion2017":5385,
     "adyacencia":["10203","10206","10208","10401"]},
 
     "10208":
     {"nombre":"Quellón", 
     "poblacion2002":21823,
     "poblacion2012":30964,
+	"poblacion2017":27192,
     "adyacencia":["10203","10207","10401","11203"]},
 
     "10209":
     {"nombre":"Quemchi", 
     "poblacion2002":8289,
     "poblacion2012":9191,
+	"poblacion2017":8352,
     "adyacencia":["10102","10202","10205","10210","10401","10403"]},
 
     "10210":
     {"nombre":"Quinchao", 
     "poblacion2002":8976,
     "poblacion2012":9043,
+	"poblacion2017":8088,
     "adyacencia":["10201","10204","10205","10206","10209","10401"]},
 
     "10301":
     {"nombre":"Osorno", 
     "poblacion2002":145475,
     "poblacion2012":153797,
+	"poblacion2017":161460,
     "adyacencia":["10302","10304","10305","10306","10307"]},
 
     "10302":
     {"nombre":"Puerto Octay", 
     "poblacion2002":10236,
     "poblacion2012":9480,
+	"poblacion2017":8999,
     "adyacencia":["10105","10109","10301","10303","10304","10305"]},
 
     "10303":
     {"nombre":"Purranque", 
     "poblacion2002":20705,
     "poblacion2012":20768,
+	"poblacion2017":20369,
     "adyacencia":["10104","10105","10302","10305"]},
 
     "10304":
     {"nombre":"Puyehue", 
     "poblacion2002":11368,
     "poblacion2012":11370,
+	"poblacion2017":11667,
     "adyacencia":["10109","10301","10302","10307","14204"]},
 
     "10305":
     {"nombre":"Rio Negro", 
     "poblacion2002":14732,
     "poblacion2012":13425,
+	"poblacion2017":14085,
     "adyacencia":["10301","10302","10303","10306"]},
 
     "10306":
     {"nombre":"San Juan de la Costa", 
     "poblacion2002":8831,
     "poblacion2012":7997,
+	"poblacion2017":7512,
     "adyacencia":["10301","10305","10307","14201"]},
 
     "10307":
     {"nombre":"San Pablo", 
     "poblacion2002":10162,
     "poblacion2012":9150,
+	"poblacion2017":10030,
     "adyacencia":["10301","10304","10306","14201","14204"]},
 
     "10401":
     {"nombre":"Chaitén", 
     "poblacion2002":7182,
     "poblacion2012":7122,
+	"poblacion2017":5071,
     "adyacencia":["10206","10207","10208","10209","10210","10402","10403","10404","11202","11203"]},
 
     "10402":
     {"nombre":"Futaleufú", 
     "poblacion2002":1826,
     "poblacion2012":1836,
+	"poblacion2017":2623,
     "adyacencia":["10401","10404"]},
 
     "10403":
     {"nombre":"Hualaihué", 
     "poblacion2002":8273,
     "poblacion2012":8426,
+	"poblacion2017":8944,
     "adyacencia":["10101","10102","10103","10209","10401"]},
 
     "10404":
     {"nombre":"Palena", 
     "poblacion2002":1690,
     "poblacion2012":1665,
+	"poblacion2017":1711,
     "adyacencia":["10401","10402","11202","11102"]},
 
     "11101":
     {"nombre":"Coihaique", 
     "poblacion2002":50041,
     "poblacion2012":59221,
+	"poblacion2017":57818,
     "adyacencia":["11102","11201","11202","11402"]},
 
     "11102":
     {"nombre":"Lago Verde", 
     "poblacion2002":1062,
     "poblacion2012":925,
+	"poblacion2017":852,
     "adyacencia":["10404","11101","11202"]},
 
     "11201":
     {"nombre":"Aisén", 
     "poblacion2002":22353,
     "poblacion2012":27187,
+	"poblacion2017":23959,
     "adyacencia":["11101","11202","11301","11303","11401","11402"]},
 
     "11202":
     {"nombre":"Cisnes", 
     "poblacion2002":5739,
     "poblacion2012":6166,
+	"poblacion2017":6517,
     "adyacencia":["10401","10404","11101","11102","11201","11203"]},
 
     "11203":
     {"nombre":"Guaitecas", 
     "poblacion2002":1539,
     "poblacion2012":1862,
+	"poblacion2017":1843,
     "adyacencia":["10208","10401","11202"]},
 
     "11301":
     {"nombre":"Cochrane", 
     "poblacion2002":2867,
     "poblacion2012":2759,
+	"poblacion2017":3490,
     "adyacencia":["11201","11302","11303","11401"]},
 
     "11302":
     {"nombre":"Ohiggins", 
     "poblacion2002":463,
     "poblacion2012":700,
+	"poblacion2017":625,
     "adyacencia":["11301","11303","12401"]},
 
     "11303":
     {"nombre":"Tortel", 
     "poblacion2002":507,
     "poblacion2012":531,
+	"poblacion2017":523,
     "adyacencia":["11201","11301","11302","12401"]},
 
     "11401":
     {"nombre":"Chile Chico", 
     "poblacion2002":4444,
     "poblacion2012":5334,
+	"poblacion2017":4865,
     "adyacencia":["11201","11301","11402"]},
 
     "11402":
     {"nombre":"Rio Ibáñez", 
     "poblacion2002":2477,
     "poblacion2012":2208,
+	"poblacion2017":2666,
     "adyacencia":["11101","11201","11401"]},
 
     "12101":
     {"nombre":"Punta Arenas", 
     "poblacion2002":119496,
     "poblacion2012":125483,
+	"poblacion2017":131592,
     "adyacencia":["12102","12103","12104","12201","12301","12302","12303","12401"]},
 
     "12102":
     {"nombre":"Laguna Blanca", 
     "poblacion2002":663,
     "poblacion2012":631,
+    "poblacion2017":274,
     "adyacencia":["12101","12103","12104","12401"]},
 
     "12103":
     {"nombre":"Río Verde", 
     "poblacion2002":358,
     "poblacion2012":363,
+    "poblacion2017":617,
     "adyacencia":["12101","12102","12401"]},
 
     "12104":
     {"nombre":"San Gregorio", 
     "poblacion2002":1158,
     "poblacion2012":731,
+    "poblacion2017":799,
     "adyacencia":["12101","12102","12302"]},
 
     "12201":
     {"nombre":"Cabo de Hornos", 
     "poblacion2002":2262,
     "poblacion2012":1677,
+    "poblacion2017":2063,
     "adyacencia":["12101","12303"]},
 
     "12202":
     {"nombre":"Antártica", 
     "poblacion2002":130,
     "poblacion2012":127,
+    "poblacion2017":138,
     "adyacencia":[]},
 
     "12301":
     {"nombre":"Porvenir", 
     "poblacion2002":5465,
     "poblacion2012":5650,
+    "poblacion2017":6801,
     "adyacencia":["12101","12302","12303"]},
 
     "12302":
     {"nombre":"Primavera", 
     "poblacion2002":1016,
     "poblacion2012":803,
+    "poblacion2017":1158,
     "adyacencia":["12101","12104","12301"]},
 
     "12303":
     {"nombre":"Timaukel", 
     "poblacion2002":423,
     "poblacion2012":873,
+    "poblacion2017":405,
     "adyacencia":["12101","12301","12201"]},
 
     "12401":
     {"nombre":"Natales", 
     "poblacion2002":19116,
     "poblacion2012":21327,
+    "poblacion2017":21477,
     "adyacencia":["11302","11303","12101","12102","12103","12402"]},
 
     "12402":
     {"nombre":"Torres del Paine", 
     "poblacion2002":739,
     "poblacion2012":1163,
+    "poblacion2017":1209,
     "adyacencia":["12401"]},
 
     "13101":
     {"nombre":"Santiago", 
     "poblacion2002":200792,
     "poblacion2012":237369,
+	"poblacion2017":404495,
     "adyacencia":["13106","13108","13120","13121","13123","13126","13127","13129","13130"]},
 
     "13102":
     {"nombre":"Cerrillos", 
     "poblacion2002":71906,
     "poblacion2012":79195,
+	"poblacion2017":80832,
     "adyacencia":["13106","13116","13119","13121","13401"]},
 
     "13103":
     {"nombre":"Cerro Navia", 
     "poblacion2002":148312,
     "poblacion2012":128090,
+	"poblacion2017":132622,
     "adyacencia":["13117","13124","13126","13128"]},
 
     "13104":
     {"nombre":"Conchalí", 
     "poblacion2002":133256,
     "poblacion2012":121118,
+	"poblacion2017":126955,
     "adyacencia":["13107","13108","13125","13127","13128"]},
 
     "13105":
     {"nombre":"El Bosque", 
     "poblacion2002":175594,
     "poblacion2012":162671,
+	"poblacion2017":162505,
     "adyacencia":["13109","13112","13131","13401"]},
 
     "13106":
     {"nombre":"Estación Central", 
     "poblacion2002":130394,
     "poblacion2012":119292,
+	"poblacion2017":147041,
     "adyacencia":["13101","13102","13117","13119","13121","13124","13126"]},
 
     "13107":
     {"nombre":"Huechuraba", 
     "poblacion2002":74070,
     "poblacion2012":87667,
+	"poblacion2017":98671,
     "adyacencia":["13104","13115","13125","13127","13132","13301"]},
 
     "13108":
     {"nombre":"Independencia", 
     "poblacion2002":65479,
     "poblacion2012":73874,
+	"poblacion2017":100281,
     "adyacencia":["13101","13104","13127","13128"]},
 
     "13109":
     {"nombre":"La Cisterna", 
     "poblacion2002":85118,
     "poblacion2012":80910,
+	"poblacion2017":90119,
     "adyacencia":["13105","13116","13130","13131"]},
 
     "13110":
     {"nombre":"La Florida", 
     "poblacion2002":365674,
     "poblacion2012":397497,
+	"poblacion2017":366916,
     "adyacencia":["13111","13112","13118","13122","13129","13201","13203"]},
 
     "13111":
     {"nombre":"La Granja", 
     "poblacion2002":132520,
     "poblacion2012":121214,
+	"poblacion2017":116571,
     "adyacencia":["13110","13112","13129","13131"]},
 
     "13112":
     {"nombre":"La Pintana", 
     "poblacion2002":190085,
     "poblacion2012":202146,
+	"poblacion2017":177335,
     "adyacencia":["13105","13110","13111","13131","13201","13401"]},
 
     "13113":
     {"nombre":"La Reina", 
     "poblacion2002":96762,
     "poblacion2012":91927,
+	"poblacion2017":92787,
     "adyacencia":["13114","13120","13122","13123"]},
 
     "13114":
     {"nombre":"Las Condes", 
     "poblacion2002":249893,
     "poblacion2012":289949,
+	"poblacion2017":294838,
     "adyacencia":["13113","13115","13122","13123","13127","13132","13203"]},
 
     "13115":
     {"nombre":"Lo Barnechea", 
     "poblacion2002":74749,
     "poblacion2012":97230,
+	"poblacion2017":105833,
     "adyacencia":["5301","13107","13114","13132","13203","13301"]},
 
     "13116":
     {"nombre":"Lo Espejo", 
     "poblacion2002":112800,
     "poblacion2012":99527,
+	"poblacion2017":98804,
     "adyacencia":["13102","13109","13121","13401"]},
 
     "13117":
     {"nombre":"Lo Prado", 
     "poblacion2002":104316,
     "poblacion2012":94766,
+	"poblacion2017":96249,
     "adyacencia":["13103","13106","13124","13126"]},
 
     "13118":
     {"nombre":"Macul", 
     "poblacion2002":112535,
     "poblacion2012":111436,
+	"poblacion2017":116534,
     "adyacencia":["13110","13120","13122","13129"]},
 
     "13119":
     {"nombre":"Maipú", 
     "poblacion2002":468390,
     "poblacion2012":805000,
+	"poblacion2017":521627,
     "adyacencia":["13102","13106","13124","13401","13403","13503","13604"]},
 
     "13120":
     {"nombre":"Ñuñoa", 
     "poblacion2002":163511,
     "poblacion2012":195410,
+	"poblacion2017":208237,
     "adyacencia":["13101","13113","13118","13122","13123"]},
 
     "13121":
     {"nombre":"Pedro Aguirre Cerda", 
     "poblacion2002":114560,
     "poblacion2012":104018,
+	"poblacion2017":101174,
     "adyacencia":["13101","13102","13106","13116","13130"]},
 
     "13122":
     {"nombre":"Peñalolén", 
     "poblacion2002":216060,
     "poblacion2012":249621,
+	"poblacion2017":241599,
     "adyacencia":["13110","13113","13114","13118","13120","13203"]},
 
     "13123":
     {"nombre":"Providencia", 
     "poblacion2002":120874,
     "poblacion2012":126487,
+	"poblacion2017":142079,
     "adyacencia":["13101","13113","13114","13120","13127"]},
 
     "13124":
     {"nombre":"Pudahuel", 
     "poblacion2002":195653,
     "poblacion2012":225509,
+	"poblacion2017":230293,
     "adyacencia":["13103","13106","13117","13119","13125","13128","13302","13503"]},
 
     "13125":
     {"nombre":"Quilicura", 
     "poblacion2002":126518,
     "poblacion2012":203946,
+	"poblacion2017":210410,
     "adyacencia":["13104","13107","13124","13128","13301","13302"]},
 
     "13126":
     {"nombre":"Quinta Normal", 
     "poblacion2002":104012,
     "poblacion2012":101737,
+	"poblacion2017":110026,
     "adyacencia":["13101","13103","13106","13117","13128"]},
 
     "13127":
     {"nombre":"Recoleta", 
     "poblacion2002":148220,
     "poblacion2012":152985,
+	"poblacion2017":157851,
     "adyacencia":["13101","13104","13107","13108","13114","13123","13132"]},
 
     "13128":
     {"nombre":"Renca", 
     "poblacion2002":133518,
     "poblacion2012":142136,
+	"poblacion2017":147151,
     "adyacencia":["13103","13104","13108","13124","13125","13126"]},
 
     "13129":
     {"nombre":"San Joaquín", 
     "poblacion2002":97625,
     "poblacion2012":94255,
+	"poblacion2017":94492,
     "adyacencia":["13101","13110","13111","13118","13130"]},
 
     "13130":
     {"nombre":"San Miguel", 
     "poblacion2002":78872,
     "poblacion2012":90846,
+	"poblacion2017":107954,
     "adyacencia":["13101","13109","13121","13129","13131"]},
 
     "13131":
     {"nombre":"San Ramón", 
     "poblacion2002":94906,
     "poblacion2012":85195,
+	"poblacion2017":82900,
     "adyacencia":["13105","13109","13111","13112","13130"]},
 
     "13132":
     {"nombre":"Vitacura", 
     "poblacion2002":81499,
     "poblacion2012":84195,
+	"poblacion2017":85384,
     "adyacencia":["13107","13114","13115","13127"]},
 
     "13201":
     {"nombre":"Puente Alto", 
     "poblacion2002":492915,
     "poblacion2012":757721,
+	"poblacion2017":568106,
     "adyacencia":["13110","13112","13202","13203"]},
 
     "13202":
-    {"nombre":"Pirque", 
+    {"nombre":"Pirque",
     "poblacion2002":16565,
     "poblacion2012":20732,
+	"poblacion2017":26521,
     "adyacencia":["6110","13201","13203","13402","13404"]},
 
     "13203":
     {"nombre":"San José de Maipo", 
     "poblacion2002":13376,
     "poblacion2012":14455,
+	"poblacion2017":18189,
     "adyacencia":["5301","6102","6108","6110","13110","13114","13115","13122","13201","13202"]},
 
     "13301":
     {"nombre":"Colina", 
     "poblacion2002":77815,
     "poblacion2012":113340,
+	"poblacion2017":146207,
     "adyacencia":["5301","5302","5303","13107","13115","13125","13302","13303"]},
 
     "13302":
     {"nombre":"Lampa", 
     "poblacion2002":40228,
     "poblacion2012":79421,
+	"poblacion2017":102034,
     "adyacencia":["5801","13124","13125","13303","13503"]},
 
     "13303":
     {"nombre":"Tiltil", 
     "poblacion2002":14755,
     "poblacion2012":16405,
+	"poblacion2017":19312,
     "adyacencia":["5303","5503","5703","5801","5803","13301","13302"]},
 
     "13401":
     {"nombre":"San Bernardo", 
     "poblacion2002":246762,
     "poblacion2012":277802,
+	"poblacion2017":301313,
     "adyacencia":["13102","13105","13112","13119","13201","13402","13403","13601","13603"]},
 
     "13402":
     {"nombre":"Buin", 
     "poblacion2002":63419,
     "poblacion2012":74232,
+	"poblacion2017":96614,
     "adyacencia":["13202","13401","13404","13603"]},
 
     "13403":
     {"nombre":"Calera de Tango", 
     "poblacion2002":18235,
     "poblacion2012":27781,
+	"poblacion2017":25392,
     "adyacencia":["13119","13401","13601","13604","13605"]},
 
     "13404":
     {"nombre":"Paine", 
     "poblacion2002":50028,
     "poblacion2012":66512,
+	"poblacion2017":72759,
     "adyacencia":["6110","13202","13402","13501","13502","13603"]},
 
     "13501":
     {"nombre":"Melipilla", 
     "poblacion2002":94540,
     "poblacion2012":107698,
+	"poblacion2017":123627,
     "adyacencia":["5601","13404","13502","13503","13504","13505","13602","13603","13604","13605"]},
 
     "13502":
     {"nombre":"Alhué", 
     "poblacion2002":4435,
     "poblacion2012":4696,
+	"poblacion2017":6444,
     "adyacencia":["6101","6104","6105","6106","6107","6110","13404","13501","13505"]},
 
     "13503":
     {"nombre":"Curacaví", 
     "poblacion2002":24298,
     "poblacion2012":28439,
+	"poblacion2017":32579,
     "adyacencia":["5102","5801","13119","13124","13302","13501","13504","13604"]},
 
     "13504":
     {"nombre":"María Pinto", 
     "poblacion2002":10343,
     "poblacion2012":12501,
+	"poblacion2017":13590,
     "adyacencia":["5102","5601","5603","13501","13503"]},
 
     "13505":
     {"nombre":"San Pedro", 
     "poblacion2002":7549,
     "poblacion2012":8062,
+	"poblacion2017":9726,
     "adyacencia":["5601","5606","6107","6203","13501","13502"]},
 
     "13601":
     {"nombre":"Talagante", 
     "poblacion2002":59805,
     "poblacion2012":78887,
+	"poblacion2017":74237,
     "adyacencia":["13401","13403","13602","13603","13605"]},
 
     "13602":
     {"nombre":"El Monte", 
     "poblacion2002":26459,
     "poblacion2012":32468,
+	"poblacion2017":35923,
     "adyacencia":["13501","13601","13603","13605"]},
 
     "13603":
     {"nombre":"Isla de Maipo", 
     "poblacion2002":25798,
     "poblacion2012":33723,
+	"poblacion2017":36219,
     "adyacencia":["13401","13402","13404","13501","13502","13601","13602"]},
 
     "13604":
     {"nombre":"Padre Hurtado", 
     "poblacion2002":38768,
     "poblacion2012":50696,
+	"poblacion2017":63250,
     "adyacencia":["13119","13403","13501","13503","13605"]},
 
     "13605":
     {"nombre":"Peñaflor", 
     "poblacion2002":66619,
     "poblacion2012":87741,
+	"poblacion2017":90201,
     "adyacencia":["13403","13501","13601","13602","13604"]},
 
     "14101":
     {"nombre":"Valdivia", 
     "poblacion2002":140559,
     "poblacion2012":163148,
+	"poblacion2017":166080,
     "adyacencia":["14102","14104","14105","14106","14107"]},
 
     "14102":
     {"nombre":"Corral", 
     "poblacion2002":5463,
     "poblacion2012":5084,
+	"poblacion2017":5302,
     "adyacencia":["14101","14107","14201"]},
 
     "14103":
     {"nombre":"Lanco", 
     "poblacion2002":15107,
     "poblacion2012":16663,
+	"poblacion2017":16752,
     "adyacencia":["9109","14105","14106","14108"]},
 
     "14104":
     {"nombre":"Los Lagos", 
     "poblacion2002":20168,
     "poblacion2012":18733,
+	"poblacion2017":19634,
     "adyacencia":["14101","14105","14107","14108","14202"]},
 
     "14105":
     {"nombre":"Máfil", 
     "poblacion2002":7213,
     "poblacion2012":7006,
+	"poblacion2017":7095,
     "adyacencia":["14101","14103","14104","14106","14108"]},
 
     "14106":
     {"nombre":"Mariquina", 
     "poblacion2002":18223,
     "poblacion2012":19823,
+	"poblacion2017":21278,
     "adyacencia":["9107","9109","9118","14101","14103","14105"]},
 
     "14107":
     {"nombre":"Paillaco", 
     "poblacion2002":19237,
     "poblacion2012":19898,
+	"poblacion2017":20188,
     "adyacencia":["14101","14102","14104","14201","14202"]},
 
     "14108":
     {"nombre":"Panguipulli", 
     "poblacion2002":33273,
     "poblacion2012":35185,
+	"poblacion2017":34539,
     "adyacencia":["9104","9109","9115","9120","14103","14104","14105","14202"]},
 
     "14201":
     {"nombre":"La Unión", 
     "poblacion2002":39447,
     "poblacion2012":38544,
+	"poblacion2017":38036,
     "adyacencia":["10306","10307","14102","14107","14202","14203","14204"]},
 
     "14202":
     {"nombre":"Futrono", 
     "poblacion2002":14981,
     "poblacion2012":15811,
+	"poblacion2017":14665,
     "adyacencia":["14104","14107","14108","14201","14203"]},
 
     "14203":
     {"nombre":"Lago Ranco", 
     "poblacion2002":10098,
     "poblacion2012":9380,
+	"poblacion2017":9896,
     "adyacencia":["14201","14202","14204"]},
 
     "14204":
     {"nombre":"Río Bueno", 
     "poblacion2002":32627,
     "poblacion2012":31343,
+	"poblacion2017":31372,
     "adyacencia":["10304","10307","14201","14203"]},
 
     "15101":
     {"nombre":"Arica", 
     "poblacion2002":185268,
     "poblacion2012":210936,
+	"poblacion2017":221364,
     "adyacencia":["15102","15201","15202"]},
 
     "15102":
     {"nombre":"Camarones", 
     "poblacion2002":1220,
     "poblacion2012":679,
+	"poblacion2017":1255,
     "adyacencia":["15101","15201","1402","1403","1404"]},
 
     "15201":
     {"nombre":"Putre", 
     "poblacion2002":1977,
     "poblacion2012":1462,
+	"poblacion2017":2765,
     "adyacencia":["15101","15102","15202","1403"]},
 
     "15202":
     {"nombre":"General Lagos", 
     "poblacion2002":1179,
     "poblacion2012":739,
+	"poblacion2017":684,
     "adyacencia":["15101","15201"]}
 
 
